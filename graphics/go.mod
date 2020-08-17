@@ -1,3 +1,3 @@
-module code.google.com/p/graphics-go/graphics
+module github.com/scythefly/graphics-go/graphics
 
 go 1.14
